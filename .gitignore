@@ -2,3 +2,5 @@ build/.vs/ACAT/v17
 include/matplot
 tool/.crawler_v2.py
 build
+notes.md
+todo.md
