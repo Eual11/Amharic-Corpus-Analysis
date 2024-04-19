@@ -1,6 +1,6 @@
 #include "../include/Tokenizer.h"
-#include <matplot/freestanding/plot.h>
-#include <matplot/matplot.h>
+#include "matplot/freestanding/plot.h"
+#include "matplot/matplot.h"
 void Graph_Word_Freq(std::vector<std::string> &words,
                      std::vector<long long> &freq);
 void Graph_Zipfs(const std::vector<long long> &freq);
