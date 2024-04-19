@@ -10,6 +10,5 @@
 - [X] understand one way to plot frequency graph 
 - [X] parse the data and make it suitable for the graph
 - [X] visualize timeeee 
-- [ ] understand one way to show zipfian disturbution
-- [ ] visualize
-- [ ] check out word cloud
+- [X] understand one way to show zipfian disturbution
+- [X] visualize
