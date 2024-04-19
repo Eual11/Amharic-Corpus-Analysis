@@ -1,4 +1,4 @@
-set(EXECUTABLE_NAME "e")
+set(EXECUTABLE_NAME "ACAT")
 CPMAddPackage(
     NAME matplotplusplus
     GITHUB_REPOSITORY alandefreitas/matplotplusplus
