@@ -1,14 +1,6 @@
-#include "../include/Tokenizer.h"
-#include <matplot/matplot.h>
-
-int main() {
-  Tokenizer token("../tool/data/frequency_data.txt", 15,
-                  Tokenizer::DATAFORMAT::MAP);
-
-  std::vector<long long> freq = token.getFrequencies();
-
-  std::vector<std::string> words = token.getWords();
-
+#include "../include/Visualize.h"
+void Graph_Word_Freq(std::vector<std::string> &words,
+                     std::vector<long long> &freq) {
   using namespace matplot;
   auto fig = figure();
   fig->size(1280, 720);
