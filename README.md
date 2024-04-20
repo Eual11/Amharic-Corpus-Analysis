@@ -175,17 +175,7 @@ pip install -r requirements.txt
 - ✅ Implement Zipf's distribution
 - ◻️ Add more data and analyze the converges the results
 
-## Contribution
 
-🌟 We warmly welcome contributions to this project! Whether you have a bug fix, a feature enhancement, or new ideas, we'd love to see them. Feel free to fork the repository, make your changes, and submit a delightful pull request. Remember, even the tiniest improvements bring us immense joy! Let's make this project shine together. ✨
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 I warmly welcome contributions to this project! Whether you have a bug fix, a feature enhancement, or new ideas, I would love to see them. Feel free to fork the repository, make your changes, and submit a pull request
